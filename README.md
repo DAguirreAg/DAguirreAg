@@ -1,7 +1,35 @@
 ### Hi there 👋
+-----------
+<!-- **DAguirreAg/DAguirreAg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+
+My name is Daniel and I live in the Netherlands :netherlands:.
 
 <!--
-**DAguirreAg/DAguirreAg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔧 Languages and Tools:
+TODO
+-->
+
+### 📊 GitHub Stats:
+
+<a href="https://github.com/DAguirreAg/DAguirreAg">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAguirreAg&hide=javascript,G-Code,Cmake&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/DAguirreAg/DAguirreAg">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DAguirreAg&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide=contribs,issues" alt="Daniel's GitHub Stats" />
+</a>
+
+<br/>
+
+### Connect with me:
+
+[<img align="left" alt="vibhorchaudhary | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[<img align="left" alt="vibhorchaudhary | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+
+<!--
+[<img align="left" alt="vibhorchaudhary | XDA Developers" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[website]: 
+<br/>
 
 Here are some ideas to get you started:
 
@@ -14,3 +42,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[linkedin]: www.linkedin.com/in/daniel-aguirre-aguirrebena
+[github]: https://github.com/DAguirreAg
