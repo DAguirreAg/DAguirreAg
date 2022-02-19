@@ -2,49 +2,52 @@
 -----------
 <!-- **DAguirreAg/DAguirreAg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-My name is Daniel, and this is the one of the places where I opensource some of my projects. 
+My name is Daniel and welcome to my Github page! This is one of the places where I opensource some of my projects. 
 
-I am an Idustrial Engineer who lives and works in the Netherlands :netherlands:. Even though I work as a data engineer and analyst, I spend a decent amount of time coding just for fun. If you want to connect or just disucss anything, just drop me a message here or in my other Social Media platforms.
+I am an Idustrial Engineer who lives and works in the Netherlands :netherlands:. Even though I work as a data engineer and analyst, I spend a decent amount of time coding just for fun. If you want to connect or just discuss anything, just drop me a message here or in my other Social Media platforms (links below).
+<br/>
+<br/>
 
-
-<!--
 ### 🔧 Languages and Tools:
-TODO
 
+<img alt="Jupyter Notebooks" height="26px" src="images/jupyter-notebook.jpeg" />
+<img alt="Python" height="26px" src="images/python.jpeg" />
+<img alt="PostgreSQL" height="26px" src="images/postgresql.jpg" />
+<img alt="VS Code" height="26px" src="images/visual-studio-code.jpg" />
+<img alt="Azure" height="26px" src="images/azure.jpeg" />
+<img alt="Terminal" height="26px" src="images/terminal.png" />
+<img alt="Github" height="26px" src="images/github.jpg" />
+<br/>
+<br/>
+
+### About me
+
+- 🔭 I’m currently working on: **Smart Manufacturing** and **Home Automation APPs**.
+- 🌱 I’m currently learning about how to design and setup a home server.
+- 👯 I’m looking to collaborate on projects related with Data and/or Industry 4.0.
+- 💬 Ask me about **Data analysis/engineering and Industry 4.0**.
+- 📫 How to reach me: Linkedin and Github!
+- ⚡ Fun fact: I studied Mech. Eng. even though I work on software.
+<br/>
+<br/>
+
+### Connect with me:
+
+[<img align="left" alt="LinkedIn" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="background-color:white;padding:2px;"/>][linkedin]
+
+[<img align="left" alt="GitHub" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" style="background-color:white;padding:2px;"/>][github]
+<br/>
+<br/>
 
 ### 📊 GitHub Stats:
 
 <a href="https://github.com/DAguirreAg/DAguirreAg">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAguirreAg&hide=javascript,G-Code,Cmake&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+<!--
 <a href="https://github.com/DAguirreAg/DAguirreAg">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DAguirreAg&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide=contribs,issues" alt="Daniel's GitHub Stats" />
 </a>
-
-<br/>
--->
-
-### Connect with me:
-
-[<img align="left" alt="vibhorchaudhary | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[<img align="left" alt="vibhorchaudhary | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-
-<!--
-[<img align="left" alt="vibhorchaudhary | XDA Developers" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[website]: 
-<br/>
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 [linkedin]: www.linkedin.com/in/daniel-aguirre-aguirrebena
