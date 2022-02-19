@@ -2,12 +2,15 @@
 -----------
 <!-- **DAguirreAg/DAguirreAg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-My name is Daniel and I live in the Netherlands :netherlands:.
+My name is Daniel, and this is the one of the places where I opensource some of my projects. 
+
+I am an Idustrial Engineer who lives and works in the Netherlands :netherlands:. Even though I work as a data engineer and analyst, I spend a decent amount of time coding just for fun. If you want to connect or just disucss anything, just drop me a message here or in my other Social Media platforms.
+
 
 <!--
 ### 🔧 Languages and Tools:
 TODO
--->
+
 
 ### 📊 GitHub Stats:
 
@@ -19,6 +22,7 @@ TODO
 </a>
 
 <br/>
+-->
 
 ### Connect with me:
 
