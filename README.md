@@ -6,21 +6,22 @@ My name is Daniel and welcome to my Github page! This is one of the places where
 
 I am an Idustrial Engineer who lives and works in the Netherlands :netherlands:. Even though I work as a data engineer and analyst, I spend a decent amount of time coding just for fun. If you want to connect or just discuss anything, just drop me a message here or in my other Social Media platforms (links below).
 <br/>
-<br/>
 
 ### 🔧 Languages and Tools:
 
-<img alt="Jupyter Notebooks" height="26px" src="images/jupyter-notebook.jpeg" />
-<img alt="Python" height="26px" src="images/python.jpeg" />
-<img alt="PostgreSQL" height="26px" src="images/postgresql.jpg" />
-<img alt="VS Code" height="26px" src="images/visual-studio-code.jpg" />
-<img alt="Azure" height="26px" src="images/azure.jpeg" />
-<img alt="Terminal" height="26px" src="images/terminal.png" />
-<img alt="Github" height="26px" src="images/github.jpg" />
+<img align="left" alt="Jupyter Notebooks" height="45px" src="images/jupyter-notebook.jpeg" />
+<img align="left" alt="Python" height="45px" src="images/python.jpeg" />
+<img align="left" alt="PostgreSQL" height="45px" src="images/postgresql.jpg" />
+<img align="left" alt="VS Code" height="45px" src="images/visual-studio-code.jpg" />
+<img align="left" alt="Azure" height="45px" src="images/azure.jpeg" />
+<img align="left" alt="Terminal" height="45px" src="images/terminal.png" />
+<img align="left" alt="Github" height="45px" src="images/github.jpg" />
+
+<br/>
 <br/>
 <br/>
 
-### About me
+### :man: About me
 
 - 🔭 I’m currently working on: **Smart Manufacturing** and **Home Automation APPs**.
 - 🌱 I’m currently learning about how to design and setup a home server.
@@ -28,14 +29,13 @@ I am an Idustrial Engineer who lives and works in the Netherlands :netherlands:.
 - 💬 Ask me about **Data analysis/engineering and Industry 4.0**.
 - 📫 How to reach me: Linkedin and Github!
 - ⚡ Fun fact: I studied Mech. Eng. even though I work on software.
-<br/>
-<br/>
 
-### Connect with me:
+
+### :link: Connect with me:
 
 [<img align="left" alt="LinkedIn" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="background-color:white;padding:2px;"/>][linkedin]
 
-[<img align="left" alt="GitHub" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" style="background-color:white;padding:2px;"/>][github]
+[<img align="left" alt="GitHub" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" style="background-color:white; padding:2px;"/>][github]
 <br/>
 <br/>
 
