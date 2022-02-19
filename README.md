@@ -2,7 +2,7 @@
 -----------
 <!-- **DAguirreAg/DAguirreAg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-My name is Daniel and welcome to my Github page! This is one of the places where I opensource some of my projects. 
+Welcome to my Github page, my name is Daniel! This is one of the places where I opensource some of my projects. 
 
 I am an Idustrial Engineer who lives and works in the Netherlands :netherlands:. Even though I work as a data engineer and analyst, I spend a decent amount of time coding just for fun. If you want to connect or just discuss anything, just drop me a message here or in my other Social Media platforms (links below).
 <br/>
@@ -15,7 +15,7 @@ I am an Idustrial Engineer who lives and works in the Netherlands :netherlands:.
 <img align="left" alt="VS Code" height="45px" src="images/visual-studio-code.jpg" />
 <img align="left" alt="Azure" height="45px" src="images/azure.jpeg" />
 <img align="left" alt="Terminal" height="45px" src="images/terminal.png" />
-<img align="left" alt="Github" height="45px" src="images/github.jpg" />
+<img align="left" alt="GitHub" height="45px" src="images/github.jpg" />
 
 <br/>
 <br/>
@@ -33,9 +33,9 @@ I am an Idustrial Engineer who lives and works in the Netherlands :netherlands:.
 
 ### :link: Connect with me:
 
-[<img align="left" alt="LinkedIn" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="background-color:white;padding:2px;"/>][linkedin]
+[<img align="left" alt="LinkedIn" height="35px" src="images/linkedin.jpeg" />][linkedin]
+[<img align="left" alt="GitHub" height="35px" src="images/github.jpg" />][github]
 
-[<img align="left" alt="GitHub" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" style="background-color:white; padding:2px;"/>][github]
 <br/>
 <br/>
 
@@ -50,5 +50,5 @@ I am an Idustrial Engineer who lives and works in the Netherlands :netherlands:.
 </a>
 -->
 
-[linkedin]: www.linkedin.com/in/daniel-aguirre-aguirrebena
+[linkedin]: https://www.linkedin.com/in/daniel-aguirre-aguirrebena
 [github]: https://github.com/DAguirreAg
