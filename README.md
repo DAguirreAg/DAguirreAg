@@ -24,7 +24,6 @@ I am an Idustrial Engineer who lives and works in the Netherlands :netherlands:.
 ### :man: About me
 
 - 🔭 I’m currently working on: **Data engineering** and **Distributed computing**.
-- 🌱 I’m currently learning about how to design and setup a home server.
 - 👯 I’m looking to collaborate on projects related with Data and/or Industry 4.0.
 - 💬 Ask me about **Data analysis/engineering and Industry 4.0**.
 - 📫 How to reach me: Linkedin and Github!
