@@ -4,7 +4,7 @@
 
 Welcome to my Github page, my name is Daniel! This is one of the places where I open source some of my projects. 
 
-I am a Data Engineer who lives and works in the Netherlands :netherlands:. Even though I work as a data engineer and analyst, I spend a decent amount of time coding just for fun. If you want to connect or just discuss anything, just drop me a message here or in my other Social Media platforms (links below).
+I am a Data Engineer who lives and works in the Netherlands :netherlands:. Even though I work as a data engineer and software engineer, I spend a decent amount of time coding just for fun. If you want to connect or just discuss anything, just drop me a message here or in my other Social Media platforms (links below).
 <br/>
 
 ### 🔧 Languages and Tools:
